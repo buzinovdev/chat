@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "username": "benandy",
+      "name": "Андрей",
+      "color": "#b5830c",
+      "chats": [],
+      "id": 1
+    },
+    {
+      "username": "lenka",
+      "name": "Лена",
+      "color": "#c745bb",
+      "chats": [],
+      "id": 2
+    }
+  ]
+}

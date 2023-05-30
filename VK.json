@@ -1,0 +1,606 @@
+{
+    "payload": [
+        0,
+        [
+            {
+                "peerId": 211979210,
+                "tab": "Елена Шаронова<span class=\"image_status__status image_status__status--normal\" >\n    <img class=\"image_status__statusImage\" src=\"https://sun1-15.userapi.com/Uk3-5n9kJGCF7yZ7BuBmcKHVike_2rN9KFZ94w/yVCqsEgbiM4.png\" srcset=\"https://sun1-20.userapi.com/6DbsVhZvTsBfpEoICRtGPji4qCm0J01lUPWLcQ/wrrUdJbKbQI.png 2x\">\n</span>",
+                "last_seen": {
+                    "can_see": 1,
+                    "platform": 2,
+                    "time": 1683825943,
+                    "mobile": 1
+                },
+                "contact_name": false,
+                "photo": "https://sun1-57.userapi.com/s/v1/ig2/fGxGtDZuLl7jqiFWTklv4se8aNvntGOWNAQYTSPG7eHD2HfpvLaRGBvlT-P5jA2nPxWUuycztx2UWMFXqvqNiEw-.jpg?size=100x100&quality=95&crop=451,321,983,983&ava=1",
+                "is_nft_photo": false,
+                "href": "/elena.sharonova",
+                "name": "Елена",
+                "hash": "1683825949_00f6615a845f337fa5",
+                "sex": "1",
+                "online": 2,
+                "custom_body_preview": "",
+                "is_recommended_peer": false,
+                "is_deactivated": null,
+                "moneyTransferAvail": 1,
+                "moneyRequestAvail": 1,
+                "canBeAddedToChat": 1,
+                "unread": 0,
+                "in_up_to": 345591,
+                "out_up_to": 345591,
+                "in_up_to_cmid": 236850,
+                "out_up_to_cmid": 236850,
+                "lastmsg_meta": [
+                    345591,
+                    34,
+                    211979210,
+                    1683816979,
+                    "Как прийдешь отдыхай тогда, а завтра будешь уже делать все дела",
+                    {
+                        "content_size": "63",
+                        "attach_count": "0",
+                        "oaid": "77332105",
+                        "title": null
+                    },
+                    0,
+                    557970898,
+                    236850,
+                    0
+                ],
+                "folders": 0,
+                "minor_sort_id": 345591,
+                "major_sort_id": 0,
+                "membersLoaded": false,
+                "block_error": 0,
+                "blacklisted": 0,
+                "blacklisted_by_me": 0,
+                "is_friend": 1,
+                "is_subscribed": true,
+                "is_subscribed_to_me": true,
+                "can_start_call": true,
+                "is_new": false,
+                "ad_union_ids_attr": "",
+                "history": "<div class=\"im-mess-stack _im_mess_stack \" data-peer=\"211979210\" data-admin=\"\"> <div class=\"im-mess-stack--photo\"> <div class=\"nim-peer nim-peer_small fl_l\"> <div class=\"nim-peer--photo-w\"><div class=\"nim-peer--photo\"><a target=\"_blank\" class=\"im_grid\" href=\"/elena.sharonova\"><img alt=\"Елена\" src=\"https://sun1-57.userapi.com/s/v1/ig2/fGxGtDZuLl7jqiFWTklv4se8aNvntGOWNAQYTSPG7eHD2HfpvLaRGBvlT-P5jA2nPxWUuycztx2UWMFXqvqNiEw-.jpg?size=100x100&quality=95&crop=451,321,983,983&ava=1\" /></a></div></div> </div> </div> <div class=\"im-mess-stack--content\"> <div class=\"im-mess-stack--info\"> <div class=\"im-mess-stack--pname\"> <a href=\"/elena.sharonova\" class=\"im-mess-stack--lnk\" title=\"\" target=\"_blank\">Елена</a> <span class=\"im-mess-stack--tools\"> <a href=\"/im?sel=211979210&msgid=345562\" class=\"_im_mess_link\" >9:31</a></span> </div> </div> <ul class=\"ui_clean_list im-mess-stack--mess _im_stack_messages\"> <li class=\"im-mess _im_mess im-mess_reactions _im_mess_noa _im_mess_345562\" aria-hidden=\"false\" data-ts=\"1683786694\" data-msgid=\"345562\" data-cmid=\"236821\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">Ну так нормальный</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li><li class=\"im-mess _im_mess im-mess_reactions _im_mess_noa _im_mess_345563\" aria-hidden=\"false\" data-ts=\"1683786698\" data-msgid=\"345563\" data-cmid=\"236822\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">Работа и учеба</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li><li class=\"im-mess _im_mess im-mess_reactions _im_mess_noa _im_mess_345564\" aria-hidden=\"false\" data-ts=\"1683786780\" data-msgid=\"345564\" data-cmid=\"236823\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">Зато завтра вых</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li><li class=\"im-mess _im_mess im-mess_reactions _im_mess_noa _im_mess_345565\" aria-hidden=\"false\" data-ts=\"1683786791\" data-msgid=\"345565\" data-cmid=\"236824\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">Но мне учебу на понедельник делать надо</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li><li class=\"im-mess _im_mess im-mess_reactions _im_mess_noa _im_mess_345566\" aria-hidden=\"false\" data-ts=\"1683786799\" data-msgid=\"345566\" data-cmid=\"236825\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">Домашка</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li> </ul> </div> </div><div class=\"im-mess-stack _im_mess_stack \" data-peer=\"77332105\" data-admin=\"\"> <div class=\"im-mess-stack--photo\"> <div class=\"nim-peer nim-peer_small fl_l\"> <div class=\"nim-peer--photo-w\"><div class=\"nim-peer--photo\"><a target=\"_blank\" class=\"im_grid\" href=\"/benandy\"><img alt=\"Андрей\" src=\"https://sun1-89.userapi.com/s/v1/ig2/mZY0pHz9M-0cLRRmqxq9hwoZgVdNqc7U6sOh2F9VfYCjIbTgbEanu9QkqqebNLXa0F_SVu9xlFDaClFy3pMiI44R.jpg?size=100x100&quality=95&crop=0,808,1440,1440&ava=1\" /></a></div></div> </div> </div> <div class=\"im-mess-stack--content\"> <div class=\"im-mess-stack--info\"> <div class=\"im-mess-stack--pname\"> <a href=\"/benandy\" class=\"im-mess-stack--lnk\" title=\"\" target=\"_blank\">Андрей</a> <span class=\"im-mess-stack--tools\"> <a href=\"/im?sel=211979210&msgid=345567\" class=\"_im_mess_link\" >9:33</a></span> </div> </div> <ul class=\"ui_clean_list im-mess-stack--mess _im_stack_messages\"> <li class=\"im-mess _im_mess im-mess_out im-mess_editable im-mess_reactions _im_mess_noa _im_mess_345567\" aria-hidden=\"false\" data-ts=\"1683786820\" data-msgid=\"345567\" data-cmid=\"236826\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">Ну хоть никуда ходить не надо</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li> </ul> </div> </div><div class=\"im-mess-stack _im_mess_stack \" data-peer=\"211979210\" data-admin=\"\"> <div class=\"im-mess-stack--photo\"> <div class=\"nim-peer nim-peer_small fl_l\"> <div class=\"nim-peer--photo-w\"><div class=\"nim-peer--photo\"><a target=\"_blank\" class=\"im_grid\" href=\"/elena.sharonova\"><img alt=\"Елена\" src=\"https://sun1-57.userapi.com/s/v1/ig2/fGxGtDZuLl7jqiFWTklv4se8aNvntGOWNAQYTSPG7eHD2HfpvLaRGBvlT-P5jA2nPxWUuycztx2UWMFXqvqNiEw-.jpg?size=100x100&quality=95&crop=451,321,983,983&ava=1\" /></a></div></div> </div> </div> <div class=\"im-mess-stack--content\"> <div class=\"im-mess-stack--info\"> <div class=\"im-mess-stack--pname\"> <a href=\"/elena.sharonova\" class=\"im-mess-stack--lnk\" title=\"\" target=\"_blank\">Елена</a> <span class=\"im-mess-stack--tools\"> <a href=\"/im?sel=211979210&msgid=345568\" class=\"_im_mess_link\" >9:34</a></span> </div> </div> <ul class=\"ui_clean_list im-mess-stack--mess _im_stack_messages\"> <li class=\"im-mess _im_mess im-mess_reactions _im_mess_noa _im_mess_345568\" aria-hidden=\"false\" data-ts=\"1683786845\" data-msgid=\"345568\" data-cmid=\"236827\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">Нейросеть мб справилась бы</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li><li class=\"im-mess _im_mess im-mess_reactions _im_mess_noa _im_mess_345569\" aria-hidden=\"false\" data-ts=\"1683786850\" data-msgid=\"345569\" data-cmid=\"236828\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">Так было быстрее</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li><li class=\"im-mess _im_mess im-mess_reactions _im_mess_noa _im_mess_345570\" aria-hidden=\"false\" data-ts=\"1683786857\" data-msgid=\"345570\" data-cmid=\"236829\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">Но у меня не расширенная версия</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li> </ul> </div> </div><div class=\"im-mess-stack _im_mess_stack \" data-peer=\"77332105\" data-admin=\"\"> <div class=\"im-mess-stack--photo\"> <div class=\"nim-peer nim-peer_small fl_l\"> <div class=\"nim-peer--photo-w\"><div class=\"nim-peer--photo\"><a target=\"_blank\" class=\"im_grid\" href=\"/benandy\"><img alt=\"Андрей\" src=\"https://sun1-89.userapi.com/s/v1/ig2/mZY0pHz9M-0cLRRmqxq9hwoZgVdNqc7U6sOh2F9VfYCjIbTgbEanu9QkqqebNLXa0F_SVu9xlFDaClFy3pMiI44R.jpg?size=100x100&quality=95&crop=0,808,1440,1440&ava=1\" /></a></div></div> </div> </div> <div class=\"im-mess-stack--content\"> <div class=\"im-mess-stack--info\"> <div class=\"im-mess-stack--pname\"> <a href=\"/benandy\" class=\"im-mess-stack--lnk\" title=\"\" target=\"_blank\">Андрей</a> <span class=\"im-mess-stack--tools\"> <a href=\"/im?sel=211979210&msgid=345571\" class=\"_im_mess_link\" >9:34</a></span> </div> </div> <ul class=\"ui_clean_list im-mess-stack--mess _im_stack_messages\"> <li class=\"im-mess _im_mess im-mess_out im-mess_editable im-mess_reactions _im_mess_noa _im_mess_345571\" aria-hidden=\"false\" data-ts=\"1683786874\" data-msgid=\"345571\" data-cmid=\"236830\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">У тебя chatGtp?</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li> </ul> </div> </div><div class=\"im-mess-stack _im_mess_stack \" data-peer=\"211979210\" data-admin=\"\"> <div class=\"im-mess-stack--photo\"> <div class=\"nim-peer nim-peer_small fl_l\"> <div class=\"nim-peer--photo-w\"><div class=\"nim-peer--photo\"><a target=\"_blank\" class=\"im_grid\" href=\"/elena.sharonova\"><img alt=\"Елена\" src=\"https://sun1-57.userapi.com/s/v1/ig2/fGxGtDZuLl7jqiFWTklv4se8aNvntGOWNAQYTSPG7eHD2HfpvLaRGBvlT-P5jA2nPxWUuycztx2UWMFXqvqNiEw-.jpg?size=100x100&quality=95&crop=451,321,983,983&ava=1\" /></a></div></div> </div> </div> <div class=\"im-mess-stack--content\"> <div class=\"im-mess-stack--info\"> <div class=\"im-mess-stack--pname\"> <a href=\"/elena.sharonova\" class=\"im-mess-stack--lnk\" title=\"\" target=\"_blank\">Елена</a> <span class=\"im-mess-stack--tools\"> <a href=\"/im?sel=211979210&msgid=345572\" class=\"_im_mess_link\" >9:34</a></span> </div> </div> <ul class=\"ui_clean_list im-mess-stack--mess _im_stack_messages\"> <li class=\"im-mess _im_mess im-mess_reactions _im_mess_noa _im_mess_345572\" aria-hidden=\"false\" data-ts=\"1683786880\" data-msgid=\"345572\" data-cmid=\"236831\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">В тг да</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li> </ul> </div> </div><div class=\"im-mess-stack _im_mess_stack \" data-peer=\"77332105\" data-admin=\"\"> <div class=\"im-mess-stack--photo\"> <div class=\"nim-peer nim-peer_small fl_l\"> <div class=\"nim-peer--photo-w\"><div class=\"nim-peer--photo\"><a target=\"_blank\" class=\"im_grid\" href=\"/benandy\"><img alt=\"Андрей\" src=\"https://sun1-89.userapi.com/s/v1/ig2/mZY0pHz9M-0cLRRmqxq9hwoZgVdNqc7U6sOh2F9VfYCjIbTgbEanu9QkqqebNLXa0F_SVu9xlFDaClFy3pMiI44R.jpg?size=100x100&quality=95&crop=0,808,1440,1440&ava=1\" /></a></div></div> </div> </div> <div class=\"im-mess-stack--content\"> <div class=\"im-mess-stack--info\"> <div class=\"im-mess-stack--pname\"> <a href=\"/benandy\" class=\"im-mess-stack--lnk\" title=\"\" target=\"_blank\">Андрей</a> <span class=\"im-mess-stack--tools\"> <a href=\"/im?sel=211979210&msgid=345573\" class=\"_im_mess_link\" >9:34</a></span> </div> </div> <ul class=\"ui_clean_list im-mess-stack--mess _im_stack_messages\"> <li class=\"im-mess _im_mess im-mess_out im-mess_editable im-mess_reactions _im_mess_noa _im_mess_345573\" aria-hidden=\"false\" data-ts=\"1683786897\" data-msgid=\"345573\" data-cmid=\"236832\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">У меня просто есть основная версия</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li> </ul> </div> </div><div class=\"im-mess-stack _im_mess_stack \" data-peer=\"211979210\" data-admin=\"\"> <div class=\"im-mess-stack--photo\"> <div class=\"nim-peer nim-peer_small fl_l\"> <div class=\"nim-peer--photo-w\"><div class=\"nim-peer--photo\"><a target=\"_blank\" class=\"im_grid\" href=\"/elena.sharonova\"><img alt=\"Елена\" src=\"https://sun1-57.userapi.com/s/v1/ig2/fGxGtDZuLl7jqiFWTklv4se8aNvntGOWNAQYTSPG7eHD2HfpvLaRGBvlT-P5jA2nPxWUuycztx2UWMFXqvqNiEw-.jpg?size=100x100&quality=95&crop=451,321,983,983&ava=1\" /></a></div></div> </div> </div> <div class=\"im-mess-stack--content\"> <div class=\"im-mess-stack--info\"> <div class=\"im-mess-stack--pname\"> <a href=\"/elena.sharonova\" class=\"im-mess-stack--lnk\" title=\"\" target=\"_blank\">Елена</a> <span class=\"im-mess-stack--tools\"> <a href=\"/im?sel=211979210&msgid=345574\" class=\"_im_mess_link\" >9:35</a></span> </div> </div> <ul class=\"ui_clean_list im-mess-stack--mess _im_stack_messages\"> <li class=\"im-mess _im_mess im-mess_reactions _im_mess_noa _im_mess_345574\" aria-hidden=\"false\" data-ts=\"1683786901\" data-msgid=\"345574\" data-cmid=\"236833\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">Gpt чат</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li> </ul> </div> </div><div class=\"im-mess-stack _im_mess_stack \" data-peer=\"77332105\" data-admin=\"\"> <div class=\"im-mess-stack--photo\"> <div class=\"nim-peer nim-peer_small fl_l\"> <div class=\"nim-peer--photo-w\"><div class=\"nim-peer--photo\"><a target=\"_blank\" class=\"im_grid\" href=\"/benandy\"><img alt=\"Андрей\" src=\"https://sun1-89.userapi.com/s/v1/ig2/mZY0pHz9M-0cLRRmqxq9hwoZgVdNqc7U6sOh2F9VfYCjIbTgbEanu9QkqqebNLXa0F_SVu9xlFDaClFy3pMiI44R.jpg?size=100x100&quality=95&crop=0,808,1440,1440&ava=1\" /></a></div></div> </div> </div> <div class=\"im-mess-stack--content\"> <div class=\"im-mess-stack--info\"> <div class=\"im-mess-stack--pname\"> <a href=\"/benandy\" class=\"im-mess-stack--lnk\" title=\"\" target=\"_blank\">Андрей</a> <span class=\"im-mess-stack--tools\"> <a href=\"/im?sel=211979210&msgid=345575\" class=\"_im_mess_link\" >9:35</a></span> </div> </div> <ul class=\"ui_clean_list im-mess-stack--mess _im_stack_messages\"> <li class=\"im-mess _im_mess im-mess_out im-mess_editable im-mess_reactions _im_mess_noa _im_mess_345575\" aria-hidden=\"false\" data-ts=\"1683786941\" data-msgid=\"345575\" data-cmid=\"236834\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">Я номер арендовывал чтобы зарегаться</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li> </ul> </div> </div><div class=\"im-mess-stack _im_mess_stack \" data-peer=\"211979210\" data-admin=\"\"> <div class=\"im-mess-stack--photo\"> <div class=\"nim-peer nim-peer_small fl_l\"> <div class=\"nim-peer--photo-w\"><div class=\"nim-peer--photo\"><a target=\"_blank\" class=\"im_grid\" href=\"/elena.sharonova\"><img alt=\"Елена\" src=\"https://sun1-57.userapi.com/s/v1/ig2/fGxGtDZuLl7jqiFWTklv4se8aNvntGOWNAQYTSPG7eHD2HfpvLaRGBvlT-P5jA2nPxWUuycztx2UWMFXqvqNiEw-.jpg?size=100x100&quality=95&crop=451,321,983,983&ava=1\" /></a></div></div> </div> </div> <div class=\"im-mess-stack--content\"> <div class=\"im-mess-stack--info\"> <div class=\"im-mess-stack--pname\"> <a href=\"/elena.sharonova\" class=\"im-mess-stack--lnk\" title=\"\" target=\"_blank\">Елена</a> <span class=\"im-mess-stack--tools\"> <a href=\"/im?sel=211979210&msgid=345576\" class=\"_im_mess_link\" >9:35</a></span> </div> </div> <ul class=\"ui_clean_list im-mess-stack--mess _im_stack_messages\"> <li class=\"im-mess _im_mess im-mess_reactions _im_mess_noa _im_mess_345576\" aria-hidden=\"false\" data-ts=\"1683786951\" data-msgid=\"345576\" data-cmid=\"236835\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">Ну вот да</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li><li class=\"im-mess _im_mess im-mess_reactions _im_mess_noa _im_mess_345577\" aria-hidden=\"false\" data-ts=\"1683786961\" data-msgid=\"345577\" data-cmid=\"236836\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">Только так</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li> </ul> </div> </div><div class=\"im-mess-stack _im_mess_stack \" data-peer=\"77332105\" data-admin=\"\"> <div class=\"im-mess-stack--photo\"> <div class=\"nim-peer nim-peer_small fl_l\"> <div class=\"nim-peer--photo-w\"><div class=\"nim-peer--photo\"><a target=\"_blank\" class=\"im_grid\" href=\"/benandy\"><img alt=\"Андрей\" src=\"https://sun1-89.userapi.com/s/v1/ig2/mZY0pHz9M-0cLRRmqxq9hwoZgVdNqc7U6sOh2F9VfYCjIbTgbEanu9QkqqebNLXa0F_SVu9xlFDaClFy3pMiI44R.jpg?size=100x100&quality=95&crop=0,808,1440,1440&ava=1\" /></a></div></div> </div> </div> <div class=\"im-mess-stack--content\"> <div class=\"im-mess-stack--info\"> <div class=\"im-mess-stack--pname\"> <a href=\"/benandy\" class=\"im-mess-stack--lnk\" title=\"\" target=\"_blank\">Андрей</a> <span class=\"im-mess-stack--tools\"> <a href=\"/im?sel=211979210&msgid=345578\" class=\"_im_mess_link\" >9:36</a></span> </div> </div> <ul class=\"ui_clean_list im-mess-stack--mess _im_stack_messages\"> <li class=\"im-mess _im_mess im-mess_out im-mess_was_edited im-mess_editable im-mess_reactions _im_mess_noa _im_mess_345578\" aria-hidden=\"false\" data-ts=\"1683786981\" data-msgid=\"345578\" data-cmid=\"236837\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">И чтобы им пользоваться надо на постоянку vpn включать <span class='im-mess--lbl-was-edited _im_edit_time' data-time='1683786988'>(ред.)</span></div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li> </ul> </div> </div><div class=\"im-mess-stack _im_mess_stack \" data-peer=\"211979210\" data-admin=\"\"> <div class=\"im-mess-stack--photo\"> <div class=\"nim-peer nim-peer_small fl_l\"> <div class=\"nim-peer--photo-w\"><div class=\"nim-peer--photo\"><a target=\"_blank\" class=\"im_grid\" href=\"/elena.sharonova\"><img alt=\"Елена\" src=\"https://sun1-57.userapi.com/s/v1/ig2/fGxGtDZuLl7jqiFWTklv4se8aNvntGOWNAQYTSPG7eHD2HfpvLaRGBvlT-P5jA2nPxWUuycztx2UWMFXqvqNiEw-.jpg?size=100x100&quality=95&crop=451,321,983,983&ava=1\" /></a></div></div> </div> </div> <div class=\"im-mess-stack--content\"> <div class=\"im-mess-stack--info\"> <div class=\"im-mess-stack--pname\"> <a href=\"/elena.sharonova\" class=\"im-mess-stack--lnk\" title=\"\" target=\"_blank\">Елена</a> <span class=\"im-mess-stack--tools\"> <a href=\"/im?sel=211979210&msgid=345579\" class=\"_im_mess_link\" >9:38</a></span> </div> </div> <ul class=\"ui_clean_list im-mess-stack--mess _im_stack_messages\"> <li class=\"im-mess _im_mess im-mess_reactions _im_mess_noa _im_mess_345579\" aria-hidden=\"false\" data-ts=\"1683787093\" data-msgid=\"345579\" data-cmid=\"236838\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">Я потом когда буду это задание делать можно попробовать ответит ли нейросеть</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li><li class=\"im-mess _im_mess im-mess_reactions _im_mess_noa _im_mess_345580\" aria-hidden=\"false\" data-ts=\"1683787101\" data-msgid=\"345580\" data-cmid=\"236839\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">Это по психологии</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li><li class=\"im-mess _im_mess im-mess_reactions _im_mess_noa _im_mess_345581\" aria-hidden=\"false\" data-ts=\"1683787105\" data-msgid=\"345581\" data-cmid=\"236840\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">Про архитипы</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li> </ul> </div> </div><div class=\"im-mess-stack _im_mess_stack \" data-peer=\"77332105\" data-admin=\"\"> <div class=\"im-mess-stack--photo\"> <div class=\"nim-peer nim-peer_small fl_l\"> <div class=\"nim-peer--photo-w\"><div class=\"nim-peer--photo\"><a target=\"_blank\" class=\"im_grid\" href=\"/benandy\"><img alt=\"Андрей\" src=\"https://sun1-89.userapi.com/s/v1/ig2/mZY0pHz9M-0cLRRmqxq9hwoZgVdNqc7U6sOh2F9VfYCjIbTgbEanu9QkqqebNLXa0F_SVu9xlFDaClFy3pMiI44R.jpg?size=100x100&quality=95&crop=0,808,1440,1440&ava=1\" /></a></div></div> </div> </div> <div class=\"im-mess-stack--content\"> <div class=\"im-mess-stack--info\"> <div class=\"im-mess-stack--pname\"> <a href=\"/benandy\" class=\"im-mess-stack--lnk\" title=\"\" target=\"_blank\">Андрей</a> <span class=\"im-mess-stack--tools\"> <a href=\"/im?sel=211979210&msgid=345582\" class=\"_im_mess_link\" >9:38</a></span> </div> </div> <ul class=\"ui_clean_list im-mess-stack--mess _im_stack_messages\"> <li class=\"im-mess _im_mess im-mess_out im-mess_editable im-mess_reactions _im_mess_noa _im_mess_345582\" aria-hidden=\"false\" data-ts=\"1683787128\" data-msgid=\"345582\" data-cmid=\"236841\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">Должна ответить</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li><li class=\"im-mess _im_mess im-mess_out im-mess_editable im-mess_reactions _im_mess_noa _im_mess_345583\" aria-hidden=\"false\" data-ts=\"1683787183\" data-msgid=\"345583\" data-cmid=\"236842\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">Этот ИИ рабочий код уже пишет с первого раза и мне стремно что таких как я ИИ заменит</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li> </ul> </div> </div><div class=\"im-mess-stack _im_mess_stack \" data-peer=\"211979210\" data-admin=\"\"> <div class=\"im-mess-stack--photo\"> <div class=\"nim-peer nim-peer_small fl_l\"> <div class=\"nim-peer--photo-w\"><div class=\"nim-peer--photo\"><a target=\"_blank\" class=\"im_grid\" href=\"/elena.sharonova\"><img alt=\"Елена\" src=\"https://sun1-57.userapi.com/s/v1/ig2/fGxGtDZuLl7jqiFWTklv4se8aNvntGOWNAQYTSPG7eHD2HfpvLaRGBvlT-P5jA2nPxWUuycztx2UWMFXqvqNiEw-.jpg?size=100x100&quality=95&crop=451,321,983,983&ava=1\" /></a></div></div> </div> </div> <div class=\"im-mess-stack--content\"> <div class=\"im-mess-stack--info\"> <div class=\"im-mess-stack--pname\"> <a href=\"/elena.sharonova\" class=\"im-mess-stack--lnk\" title=\"\" target=\"_blank\">Елена</a> <span class=\"im-mess-stack--tools\"> <a href=\"/im?sel=211979210&msgid=345584\" class=\"_im_mess_link\" >10:03</a></span> </div> </div> <ul class=\"ui_clean_list im-mess-stack--mess _im_stack_messages\"> <li class=\"im-mess _im_mess im-mess_reactions _im_mess_noa _im_mess_345584\" aria-hidden=\"false\" data-ts=\"1683788625\" data-msgid=\"345584\" data-cmid=\"236843\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\"><img class=\"emoji\" src=\"/emoji/e/f09fa4a3_2x.png\" alt=\"&#129315;\"></div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li> </ul> </div> </div><div class=\"im-mess-stack _im_mess_stack \" data-peer=\"77332105\" data-admin=\"\"> <div class=\"im-mess-stack--photo\"> <div class=\"nim-peer nim-peer_small fl_l\"> <div class=\"nim-peer--photo-w\"><div class=\"nim-peer--photo\"><a target=\"_blank\" class=\"im_grid\" href=\"/benandy\"><img alt=\"Андрей\" src=\"https://sun1-89.userapi.com/s/v1/ig2/mZY0pHz9M-0cLRRmqxq9hwoZgVdNqc7U6sOh2F9VfYCjIbTgbEanu9QkqqebNLXa0F_SVu9xlFDaClFy3pMiI44R.jpg?size=100x100&quality=95&crop=0,808,1440,1440&ava=1\" /></a></div></div> </div> </div> <div class=\"im-mess-stack--content\"> <div class=\"im-mess-stack--info\"> <div class=\"im-mess-stack--pname\"> <a href=\"/benandy\" class=\"im-mess-stack--lnk\" title=\"\" target=\"_blank\">Андрей</a> <span class=\"im-mess-stack--tools\"> <a href=\"/im?sel=211979210&msgid=345585\" class=\"_im_mess_link\" >10:04</a></span> </div> </div> <ul class=\"ui_clean_list im-mess-stack--mess _im_stack_messages\"> <li class=\"im-mess _im_mess im-mess_out im-mess_editable im-mess_reactions _im_mess_noa _im_mess_345585\" aria-hidden=\"false\" data-ts=\"1683788647\" data-msgid=\"345585\" data-cmid=\"236844\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">Не смешно</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li> </ul> </div> </div><div class=\"im-mess-stack _im_mess_stack \" data-peer=\"77332105\" data-admin=\"\"> <div class=\"im-mess-stack--photo\"> <div class=\"nim-peer nim-peer_small fl_l\"> <div class=\"nim-peer--photo-w\"><div class=\"nim-peer--photo\"><a target=\"_blank\" class=\"im_grid\" href=\"/benandy\"><img alt=\"Андрей\" src=\"https://sun1-89.userapi.com/s/v1/ig2/mZY0pHz9M-0cLRRmqxq9hwoZgVdNqc7U6sOh2F9VfYCjIbTgbEanu9QkqqebNLXa0F_SVu9xlFDaClFy3pMiI44R.jpg?size=100x100&quality=95&crop=0,808,1440,1440&ava=1\" /></a></div></div> </div> </div> <div class=\"im-mess-stack--content\"> <div class=\"im-mess-stack--info\"> <div class=\"im-mess-stack--pname\"> <a href=\"/benandy\" class=\"im-mess-stack--lnk\" title=\"\" target=\"_blank\">Андрей</a> <span class=\"im-mess-stack--tools\"> <a href=\"/im?sel=211979210&msgid=345586\" class=\"_im_mess_link\" >15:11</a></span> </div> </div> <ul class=\"ui_clean_list im-mess-stack--mess _im_stack_messages\"> <li class=\"im-mess _im_mess im-mess_out im-mess_editable im-mess_reactions _im_mess_noa _im_mess_345586\" aria-hidden=\"false\" data-ts=\"1683807079\" data-msgid=\"345586\" data-cmid=\"236845\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">Как работа?</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li> </ul> </div> </div><div class=\"im-mess-stack _im_mess_stack \" data-peer=\"211979210\" data-admin=\"\"> <div class=\"im-mess-stack--photo\"> <div class=\"nim-peer nim-peer_small fl_l\"> <div class=\"nim-peer--photo-w\"><div class=\"nim-peer--photo\"><a target=\"_blank\" class=\"im_grid\" href=\"/elena.sharonova\"><img alt=\"Елена\" src=\"https://sun1-57.userapi.com/s/v1/ig2/fGxGtDZuLl7jqiFWTklv4se8aNvntGOWNAQYTSPG7eHD2HfpvLaRGBvlT-P5jA2nPxWUuycztx2UWMFXqvqNiEw-.jpg?size=100x100&quality=95&crop=451,321,983,983&ava=1\" /></a></div></div> </div> </div> <div class=\"im-mess-stack--content\"> <div class=\"im-mess-stack--info\"> <div class=\"im-mess-stack--pname\"> <a href=\"/elena.sharonova\" class=\"im-mess-stack--lnk\" title=\"\" target=\"_blank\">Елена</a> <span class=\"im-mess-stack--tools\"> <a href=\"/im?sel=211979210&msgid=345587\" class=\"_im_mess_link\" >16:55</a></span> </div> </div> <ul class=\"ui_clean_list im-mess-stack--mess _im_stack_messages\"> <li class=\"im-mess _im_mess im-mess_reactions _im_mess_noa _im_mess_345587\" aria-hidden=\"false\" data-ts=\"1683813333\" data-msgid=\"345587\" data-cmid=\"236846\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">Да нормально. Я уже на паре</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li> </ul> </div> </div><div class=\"im-mess-stack _im_mess_stack \" data-peer=\"211979210\" data-admin=\"\"> <div class=\"im-mess-stack--photo\"> <div class=\"nim-peer nim-peer_small fl_l\"> <div class=\"nim-peer--photo-w\"><div class=\"nim-peer--photo\"><a target=\"_blank\" class=\"im_grid\" href=\"/elena.sharonova\"><img alt=\"Елена\" src=\"https://sun1-57.userapi.com/s/v1/ig2/fGxGtDZuLl7jqiFWTklv4se8aNvntGOWNAQYTSPG7eHD2HfpvLaRGBvlT-P5jA2nPxWUuycztx2UWMFXqvqNiEw-.jpg?size=100x100&quality=95&crop=451,321,983,983&ava=1\" /></a></div></div> </div> </div> <div class=\"im-mess-stack--content\"> <div class=\"im-mess-stack--info\"> <div class=\"im-mess-stack--pname\"> <a href=\"/elena.sharonova\" class=\"im-mess-stack--lnk\" title=\"\" target=\"_blank\">Елена</a> <span class=\"im-mess-stack--tools\"> <a href=\"/im?sel=211979210&msgid=345588\" class=\"_im_mess_link\" >17:41</a></span> </div> </div> <ul class=\"ui_clean_list im-mess-stack--mess _im_stack_messages\"> <li class=\"im-mess _im_mess im-mess_reactions _im_mess_noa _im_mess_345588\" aria-hidden=\"false\" data-ts=\"1683816109\" data-msgid=\"345588\" data-cmid=\"236847\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">Капец я устала</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li> </ul> </div> </div><div class=\"im-mess-stack _im_mess_stack \" data-peer=\"77332105\" data-admin=\"\"> <div class=\"im-mess-stack--photo\"> <div class=\"nim-peer nim-peer_small fl_l\"> <div class=\"nim-peer--photo-w\"><div class=\"nim-peer--photo\"><a target=\"_blank\" class=\"im_grid\" href=\"/benandy\"><img alt=\"Андрей\" src=\"https://sun1-89.userapi.com/s/v1/ig2/mZY0pHz9M-0cLRRmqxq9hwoZgVdNqc7U6sOh2F9VfYCjIbTgbEanu9QkqqebNLXa0F_SVu9xlFDaClFy3pMiI44R.jpg?size=100x100&quality=95&crop=0,808,1440,1440&ava=1\" /></a></div></div> </div> </div> <div class=\"im-mess-stack--content\"> <div class=\"im-mess-stack--info\"> <div class=\"im-mess-stack--pname\"> <a href=\"/benandy\" class=\"im-mess-stack--lnk\" title=\"\" target=\"_blank\">Андрей</a> <span class=\"im-mess-stack--tools\"> <a href=\"/im?sel=211979210&msgid=345589\" class=\"_im_mess_link\" >17:43</a></span> </div> </div> <ul class=\"ui_clean_list im-mess-stack--mess _im_stack_messages\"> <li class=\"im-mess _im_mess im-mess_out im-mess_editable im-mess_reactions _im_mess_noa _im_mess_345589\" aria-hidden=\"false\" data-ts=\"1683816227\" data-msgid=\"345589\" data-cmid=\"236848\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">Что там так тебя вымотало?</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li> </ul> </div> </div><div class=\"im-mess-stack _im_mess_stack \" data-peer=\"211979210\" data-admin=\"\"> <div class=\"im-mess-stack--photo\"> <div class=\"nim-peer nim-peer_small fl_l\"> <div class=\"nim-peer--photo-w\"><div class=\"nim-peer--photo\"><a target=\"_blank\" class=\"im_grid\" href=\"/elena.sharonova\"><img alt=\"Елена\" src=\"https://sun1-57.userapi.com/s/v1/ig2/fGxGtDZuLl7jqiFWTklv4se8aNvntGOWNAQYTSPG7eHD2HfpvLaRGBvlT-P5jA2nPxWUuycztx2UWMFXqvqNiEw-.jpg?size=100x100&quality=95&crop=451,321,983,983&ava=1\" /></a></div></div> </div> </div> <div class=\"im-mess-stack--content\"> <div class=\"im-mess-stack--info\"> <div class=\"im-mess-stack--pname\"> <a href=\"/elena.sharonova\" class=\"im-mess-stack--lnk\" title=\"\" target=\"_blank\">Елена</a> <span class=\"im-mess-stack--tools\"> <a href=\"/im?sel=211979210&msgid=345590\" class=\"_im_mess_link\" >17:54</a></span> </div> </div> <ul class=\"ui_clean_list im-mess-stack--mess _im_stack_messages\"> <li class=\"im-mess _im_mess im-mess_reactions _im_mess_noa _im_mess_345590\" aria-hidden=\"false\" data-ts=\"1683816840\" data-msgid=\"345590\" data-cmid=\"236849\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">Да устала</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li> </ul> </div> </div><div class=\"im-mess-stack _im_mess_stack \" data-peer=\"77332105\" data-admin=\"\"> <div class=\"im-mess-stack--photo\"> <div class=\"nim-peer nim-peer_small fl_l\"> <div class=\"nim-peer--photo-w\"><div class=\"nim-peer--photo\"><a target=\"_blank\" class=\"im_grid\" href=\"/benandy\"><img alt=\"Андрей\" src=\"https://sun1-89.userapi.com/s/v1/ig2/mZY0pHz9M-0cLRRmqxq9hwoZgVdNqc7U6sOh2F9VfYCjIbTgbEanu9QkqqebNLXa0F_SVu9xlFDaClFy3pMiI44R.jpg?size=100x100&quality=95&crop=0,808,1440,1440&ava=1\" /></a></div></div> </div> </div> <div class=\"im-mess-stack--content\"> <div class=\"im-mess-stack--info\"> <div class=\"im-mess-stack--pname\"> <a href=\"/benandy\" class=\"im-mess-stack--lnk\" title=\"\" target=\"_blank\">Андрей</a> <span class=\"im-mess-stack--tools\"> <a href=\"/im?sel=211979210&msgid=345591\" class=\"_im_mess_link\" >17:56</a></span> </div> </div> <ul class=\"ui_clean_list im-mess-stack--mess _im_stack_messages\"> <li class=\"im-mess _im_mess im-mess_out im-mess_editable im-mess_reactions _im_mess_noa _im_mess_345591\" aria-hidden=\"false\" data-ts=\"1683816979\" data-msgid=\"345591\" data-cmid=\"236850\" data-peer=\"211979210\"> <div class=\"im-mess--text wall_module _im_log_body\">Как прийдешь отдыхай тогда, а завтра будешь уже делать все дела</div> <span tabindex=\"0\" role=\"link\" aria-label=\"Выделить сообщение\" class=\"blind_label im-mess--blind-select _im_mess_blind_label_select\"></span> <span class=\"blind_label im-mess--blind-read _im_mess_blind_unread_marker\" ></span> <span class=\"im-mess--marker _im_mess_marker\" ></span> <span class=\"im-mess--reactions _im_mess_reactions\"></span> </li> </ul> </div> </div>",
+                "allShown": 0,
+                "offset": 30,
+                "msgs": {
+                    "345562": [
+                        345562,
+                        32,
+                        211979210,
+                        1683786694,
+                        "Ну так нормальный",
+                        {
+                            "content_size": "17",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        0,
+                        236821,
+                        0
+                    ],
+                    "345563": [
+                        345563,
+                        32,
+                        211979210,
+                        1683786698,
+                        "Работа и учеба",
+                        {
+                            "content_size": "14",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        0,
+                        236822,
+                        0
+                    ],
+                    "345564": [
+                        345564,
+                        32,
+                        211979210,
+                        1683786780,
+                        "Зато завтра вых",
+                        {
+                            "content_size": "15",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        0,
+                        236823,
+                        0
+                    ],
+                    "345565": [
+                        345565,
+                        32,
+                        211979210,
+                        1683786791,
+                        "Но мне учебу на понедельник делать надо",
+                        {
+                            "content_size": "39",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        0,
+                        236824,
+                        0
+                    ],
+                    "345566": [
+                        345566,
+                        32,
+                        211979210,
+                        1683786799,
+                        "Домашка",
+                        {
+                            "content_size": "7",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        0,
+                        236825,
+                        0
+                    ],
+                    "345567": [
+                        345567,
+                        50,
+                        211979210,
+                        1683786820,
+                        "Ну хоть никуда ходить не надо",
+                        {
+                            "content_size": "29",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        353650978,
+                        236826,
+                        0
+                    ],
+                    "345568": [
+                        345568,
+                        32,
+                        211979210,
+                        1683786845,
+                        "Нейросеть мб справилась бы",
+                        {
+                            "content_size": "26",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        0,
+                        236827,
+                        0
+                    ],
+                    "345569": [
+                        345569,
+                        32,
+                        211979210,
+                        1683786850,
+                        "Так было быстрее",
+                        {
+                            "content_size": "16",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        0,
+                        236828,
+                        0
+                    ],
+                    "345570": [
+                        345570,
+                        32,
+                        211979210,
+                        1683786857,
+                        "Но у меня не расширенная версия",
+                        {
+                            "content_size": "31",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        0,
+                        236829,
+                        0
+                    ],
+                    "345571": [
+                        345571,
+                        50,
+                        211979210,
+                        1683786874,
+                        "У тебя chatGtp?",
+                        {
+                            "content_size": "15",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        270108329,
+                        236830,
+                        0
+                    ],
+                    "345572": [
+                        345572,
+                        32,
+                        211979210,
+                        1683786880,
+                        "В тг да",
+                        {
+                            "content_size": "7",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        0,
+                        236831,
+                        0
+                    ],
+                    "345573": [
+                        345573,
+                        50,
+                        211979210,
+                        1683786897,
+                        "У меня просто есть основная версия",
+                        {
+                            "content_size": "34",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        1224223065,
+                        236832,
+                        0
+                    ],
+                    "345574": [
+                        345574,
+                        32,
+                        211979210,
+                        1683786901,
+                        "Gpt чат",
+                        {
+                            "content_size": "7",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        0,
+                        236833,
+                        0
+                    ],
+                    "345575": [
+                        345575,
+                        50,
+                        211979210,
+                        1683786941,
+                        "Я номер арендовывал чтобы зарегаться",
+                        {
+                            "content_size": "36",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        810493123,
+                        236834,
+                        0
+                    ],
+                    "345576": [
+                        345576,
+                        32,
+                        211979210,
+                        1683786951,
+                        "Ну вот да",
+                        {
+                            "content_size": "9",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        0,
+                        236835,
+                        0
+                    ],
+                    "345577": [
+                        345577,
+                        32,
+                        211979210,
+                        1683786961,
+                        "Только так",
+                        {
+                            "content_size": "10",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        0,
+                        236836,
+                        0
+                    ],
+                    "345578": [
+                        345578,
+                        50,
+                        211979210,
+                        1683786981,
+                        "И чтобы им пользоваться надо на постоянку vpn включать",
+                        {
+                            "content_size": "54",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        2144456837,
+                        236837,
+                        1683786988
+                    ],
+                    "345579": [
+                        345579,
+                        32,
+                        211979210,
+                        1683787093,
+                        "Я потом когда буду это задание делать можно попробовать ответит ли нейросеть",
+                        {
+                            "content_size": "76",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        0,
+                        236838,
+                        0
+                    ],
+                    "345580": [
+                        345580,
+                        32,
+                        211979210,
+                        1683787101,
+                        "Это по психологии",
+                        {
+                            "content_size": "17",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        0,
+                        236839,
+                        0
+                    ],
+                    "345581": [
+                        345581,
+                        32,
+                        211979210,
+                        1683787105,
+                        "Про архитипы",
+                        {
+                            "content_size": "12",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        0,
+                        236840,
+                        0
+                    ],
+                    "345582": [
+                        345582,
+                        50,
+                        211979210,
+                        1683787128,
+                        "Должна ответить",
+                        {
+                            "content_size": "15",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        103179594,
+                        236841,
+                        0
+                    ],
+                    "345583": [
+                        345583,
+                        50,
+                        211979210,
+                        1683787183,
+                        "Этот ИИ рабочий код уже пишет с первого раза и мне стремно что таких как я ИИ заменит",
+                        {
+                            "content_size": "85",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        1295853176,
+                        236842,
+                        0
+                    ],
+                    "345584": [
+                        345584,
+                        32,
+                        211979210,
+                        1683788625,
+                        "<img class=\"emoji\" src=\"/emoji/e/f09fa4a3_2x.png\" alt=\"&#129315;\">",
+                        {
+                            "content_size": "9",
+                            "attach_count": "0",
+                            "emoji": "1",
+                            "title": null
+                        },
+                        0,
+                        0,
+                        236843,
+                        0
+                    ],
+                    "345585": [
+                        345585,
+                        50,
+                        211979210,
+                        1683788647,
+                        "Не смешно",
+                        {
+                            "content_size": "9",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        1133364995,
+                        236844,
+                        0
+                    ],
+                    "345586": [
+                        345586,
+                        50,
+                        211979210,
+                        1683807079,
+                        "Как работа?",
+                        {
+                            "content_size": "11",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        183330056,
+                        236845,
+                        0
+                    ],
+                    "345587": [
+                        345587,
+                        32,
+                        211979210,
+                        1683813333,
+                        "Да нормально. Я уже на паре",
+                        {
+                            "content_size": "27",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        0,
+                        236846,
+                        0
+                    ],
+                    "345588": [
+                        345588,
+                        32,
+                        211979210,
+                        1683816109,
+                        "Капец я устала",
+                        {
+                            "content_size": "14",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        0,
+                        236847,
+                        0
+                    ],
+                    "345589": [
+                        345589,
+                        34,
+                        211979210,
+                        1683816227,
+                        "Что там так тебя вымотало?",
+                        {
+                            "content_size": "26",
+                            "attach_count": "0",
+                            "oaid": "77332105",
+                            "title": null
+                        },
+                        0,
+                        557970897,
+                        236848,
+                        0
+                    ],
+                    "345590": [
+                        345590,
+                        32,
+                        211979210,
+                        1683816840,
+                        "Да устала",
+                        {
+                            "content_size": "9",
+                            "attach_count": "0",
+                            "title": null
+                        },
+                        0,
+                        0,
+                        236849,
+                        0
+                    ],
+                    "345591": [
+                        345591,
+                        34,
+                        211979210,
+                        1683816979,
+                        "Как прийдешь отдыхай тогда, а завтра будешь уже делать все дела",
+                        {
+                            "content_size": "63",
+                            "attach_count": "0",
+                            "oaid": "77332105",
+                            "title": null
+                        },
+                        0,
+                        557970898,
+                        236850,
+                        0
+                    ]
+                },
+                "skipped": 0,
+                "lastmsg": 345591,
+                "keyboard": null
+            },
+            [
+                {
+                    "id": 211979210,
+                    "link": "/elena.sharonova",
+                    "name": "Елена Шаронова",
+                    "sex": 1,
+                    "photo": "https://sun1-57.userapi.com/s/v1/ig2/fGxGtDZuLl7jqiFWTklv4se8aNvntGOWNAQYTSPG7eHD2HfpvLaRGBvlT-P5jA2nPxWUuycztx2UWMFXqvqNiEw-.jpg?size=100x100&quality=95&crop=451,321,983,983&ava=1",
+                    "is_nft_photo": false,
+                    "image_status": "<span class=\"image_status__status image_status__status--normal\" >\n    <img class=\"image_status__statusImage\" src=\"https://sun1-15.userapi.com/Uk3-5n9kJGCF7yZ7BuBmcKHVike_2rN9KFZ94w/yVCqsEgbiM4.png\" srcset=\"https://sun1-20.userapi.com/6DbsVhZvTsBfpEoICRtGPji4qCm0J01lUPWLcQ/wrrUdJbKbQI.png 2x\">\n</span>",
+                    "first_name_gen": "Елены",
+                    "inv_name": "Елену Шаронову"
+                }
+            ],
+            [],
+            [],
+            {
+                "all": {
+                    "total": 7,
+                    "unread": 0
+                },
+                "unread": {
+                    "total": 0,
+                    "unread": 0,
+                    "unreadNotMuted": 0
+                },
+                "mr": {
+                    "total": 0
+                },
+                "business_notify": {
+                    "total": 1,
+                    "unread": 0
+                },
+                "archive": {
+                    "total": 1,
+                    "unread": 0,
+                    "unreadNotMuted": 0,
+                    "mentions": 0
+                }
+            },
+            []
+        ]
+    ],
+    "statsMeta": {
+        "platform": "web2",
+        "st": false,
+        "time": 1683825949,
+        "hash": "byhazCZQnKzADAHloWaPna1ngc8odUzynuVVUZXknqc",
+        "reloadVersion": 7
+    },
+    "loaderVersion": "20855647506",
+    "langVersion": "8233"
+}
